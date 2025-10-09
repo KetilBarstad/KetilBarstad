@@ -1,12 +1,13 @@
 ---
 title: "Trial and Error"
 subtitle: "Practice and learning for university"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
 ---
 
 ## Welcome
 
 This is my personal blog where I document what I learn, through a painful process of trial and error.
-
-## Recent Posts
-
-Coming soon
